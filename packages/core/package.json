@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "ian-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@ian-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "d0ff2edb1ac97e0f3ce63ef190ef385c3de59ea6"
 }
