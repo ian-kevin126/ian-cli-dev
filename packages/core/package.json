@@ -1,0 +1,22 @@
+{
+  "name": "@ian-cli-dev/core",
+  "version": "1.0.0",
+  "description": "ian-cli-dev core",
+  "author": "liaojiayun <liaojiayun@bytedance.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run testing from core\""
+  },
+  "dependencies": {
+    "@ian-cli-dev/utils": "^1.0.0"
+  }
+}
