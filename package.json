@@ -1,6 +1,6 @@
 {
   "name": "ian-cli-dev",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "ian-cli dev",
   "main": "index.js",
   "scripts": {
