@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@ian-cli-dev/utils": "^1.0.1"
+    "@ian-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "d0ff2edb1ac97e0f3ce63ef190ef385c3de59ea6",
   "publishConfig": {
